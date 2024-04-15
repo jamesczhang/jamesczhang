@@ -28,4 +28,4 @@
 
 ## 📫 How to reach me:
 - 📧: (see profile)
-- 🐦: https://twitter.com/jamesczhang
+- 🐦: https://twitter.com/james_c_zhang
