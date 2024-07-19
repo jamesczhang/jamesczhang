@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Overview
-- 🎓 Master’s student at the University of Chinese Academy of Sciences (graduating in June 2024)
+- 🎓 Master of Science in Engineering (Pattern Recognition and Intelligence Systems) at the University of Chinese Academy of Sciences (graduated in June 2024)
 - 🧠 Research interests: deep learning, speech synthesis, and speech information processing
 - 📱 App developer
 - 📚 Bookworm and hobby writer
@@ -12,6 +12,7 @@
 - **Crevni**: A constructed language (conlang)
 
 ## 🌱 I’m currently learning:
+- **Next.js**: https://nextjs.org/docs
 - **iOS/macOS app development**: https://developer.apple.com/
   - **SwiftUI**: https://developer.apple.com/xcode/swiftui/
   - **SwiftData**: https://developer.apple.com/xcode/swiftdata/
@@ -24,7 +25,7 @@
 - 💬: `Français`, `English`, `中文`
   - Learning `廣東話` and `Deutsch`
   - Want to learn `Español` and `日本語`
-- 🖥️: Python, Rust, Swift
+- 🖥️: Python, Typescript, Rust, Swift
 
 ## 📫 How to reach me:
 - 📧: (see profile)
